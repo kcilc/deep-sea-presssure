@@ -1,0 +1,59 @@
+* {
+/* --- --- --- Primary --- --- ---
+*/
+pmry-100: #030a1d;
+pmry-150: #0f192a;
+pmry-200: #1f293a;
+pmry-300: #3a4756;
+pmry-400: #556672;
+pmry-450: #637580; 
+pmry-500: #70848e;
+pmry-550: #7e949d;
+pmry-600: #8ba3ab;
+pmry-650: #99b2b9;
+pmry-700: #a6c1c7;
+pmry-750: #c1e0e3;
+pmry-800: #dcfeff;
+
+/* --- --- --- Primary higlight --- --- ---
+*/
+high-100: #062233;
+high-200: #083949;
+high-300: #0b505f;
+high-400: #0d6775;
+high-500: #107f8b;
+high-600: #1296A1;
+high-700: #15adb7;
+high-800: #7ae1e6;
+high-900: #17c4cd;
+
+/* --- --- --- Secondary highlight --- --- ---
+*/
+scnd-100: #ff3b55;
+scnd-200: #e0354e;
+scnd-300: #c02f47;
+scnd-400: #a12940;
+scnd-500: #812339;
+scnd-600: #621D32;
+scnd-700: #42172b;
+scnd-800: #231124;
+scnd-900: #130e21;
+
+/* --- --- --- Positive --- --- ---
+*/
+posi-400: #195428;
+posi-500: #24792e;
+posi-600: #2e9e33;
+
+/* --- --- --- Warning --- --- ---
+*/
+warn-400: #602709;
+warn-500: #8f3805;
+warn-600: #bd4800;
+
+/* --- --- --- Destructive --- --- ---
+*/
+dstv-400: #410e18;
+dstv-500: #611219;
+dstv-600: #801619;
+}

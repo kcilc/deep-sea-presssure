@@ -1,0 +1,31 @@
+* {
+/* --- --- --- Primary --- --- --- */
+pmry-100: #030a1dff;
+pmry-150: #0f192aff;
+pmry-200: #1f293aff;
+pmry-300: #3a4756ff;
+pmry-400: #556672ff;
+pmry-500: #70848eff;
+pmry-600: #8ba3abff;
+pmry-700: #a6c1c7ff;
+pmry-800: #dcfeffff;
+
+/* --- --- --- Primary higlight --- --- --- */
+high-500: #7ae1e6ff;
+high-600: #17c4cdff;
+
+/* --- --- --- Positive --- --- --- */
+posi-400: #195428ff;
+posi-500: #24792eff;
+posi-600: #2e9e33ff;
+
+/* --- --- --- Warning --- --- --- */
+warn-400: #602709ff;
+warn-500: #8f3805ff;
+warn-600: #bd4800ff;
+
+/* --- --- --- Destructive --- --- --- */
+dstv-400: #410e18ff;
+dstv-500: #611219ff;
+dstv-600: #801619ff;
+}
